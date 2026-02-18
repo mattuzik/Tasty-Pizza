@@ -1,4 +1,4 @@
-##Stack: 
+## Stack: 
 * Redux Toolkit
 * TypeScript
 * React
