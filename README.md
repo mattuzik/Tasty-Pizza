@@ -2,6 +2,6 @@
 * Redux Toolkit
 * TypeScript
 * React
-* Scss
+* Sass
 * Test backend and axios package
 * Local Storage
