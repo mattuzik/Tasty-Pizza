@@ -1,0 +1,12 @@
+@import '../variables';
+
+.failed {
+  padding-block: 120px;
+  text-align: center;
+  max-width: 500px;
+  margin: 0 auto;
+
+  &__title {
+    margin-bottom: 12px;
+  }
+}

@@ -1,0 +1,14 @@
+const NotFound: React.FC = () => {
+  return ( 
+    <div className="NotFound">
+      <h1 className="NotFound__title">
+        <span>😕</span>
+        <br />
+        Ничего не найдено
+      </h1>
+      <p className="NotFound__text">К сожалению, данная страница отсутствует в нашем интернет-магазине</p>
+    </div>
+   )
+}
+ 
+export default NotFound
