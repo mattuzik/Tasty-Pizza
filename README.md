@@ -1,6 +1,6 @@
 ## Stack: 
 * Redux Toolkit
-* Ts
+* TypeScript
 * React
 * Scss
 * Test backend and axios package
