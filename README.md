@@ -6,3 +6,5 @@
 * API && axios
 * Local Storage
 * BEM
+
+The GP link will be soon
