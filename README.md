@@ -7,4 +7,4 @@
 * Local Storage
 * BEM
 
-The GP link will be soon
+The GP link will appear soon
