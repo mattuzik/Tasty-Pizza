@@ -3,6 +3,6 @@
 * TypeScript
 * React
 * Scss
-* Test backend and axios package
+* API && axios
 * Local Storage
 * BEM
